@@ -11,5 +11,6 @@ class IIB{
     public static void main(String []args){
         IIB obj1 = new IIB();
         IIB obj2 = new IIB();
+        System.out.println(obj1.x);
     }
 }
