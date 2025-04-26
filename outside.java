@@ -1,6 +1,6 @@
 import Package.P1.yourClass;
 
-public class outside {
+public class outside extends yourClass {
 
   public static void main(String[] args) {
     yourClass ob = new yourClass();

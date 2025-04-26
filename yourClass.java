@@ -1,6 +1,6 @@
-package Java.Package.P1;
+package Package.P1;
 public class yourClass {
-    void sayHello(){
+    public void sayHello(){
         System.out.println("Saying Hello from the yourClass");
     }
 }
