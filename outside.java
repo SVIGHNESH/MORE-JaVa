@@ -1,9 +1,10 @@
-import Package.P1.yourClass;
+import P1.MyClass;
 
-public class outside extends yourClass {
+public class outside {
 
   public static void main(String[] args) {
-    yourClass ob = new yourClass();
+    MyClass ob = new MyClass();
+
     ob.sayHello();
 
   }
