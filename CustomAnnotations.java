@@ -1,9 +1,8 @@
 import java.lang.annotation.*;
-
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.METHOD)
 @interface MyAnnotation {
-    String value() default "Hello!";
+    String value();
 }
 
 class CustomAnnotations{
