@@ -15,4 +15,6 @@ class CustomAnnotations{
         CustomAnnotations ca = new CustomAnnotations();
         ca.myMethod();
     }
+    //really the way to tell the compiler to use this annotation
+    
 }
