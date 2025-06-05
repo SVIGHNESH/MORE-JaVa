@@ -4,6 +4,8 @@ import java.lang.annotation.*;
 @interface MyAnnotation {
     String value();
 }
+//gfghjkuio
+
 
 class CustomAnnotations{
     @MyAnnotation(value = "Custom Annotation Applied")
