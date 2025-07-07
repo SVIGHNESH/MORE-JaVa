@@ -7,3 +7,6 @@ public class ExceptionHandl {
     System.out.println(result);
   }
 }
+
+
+//is this really handling the exceptions 
