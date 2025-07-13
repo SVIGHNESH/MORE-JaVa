@@ -10,8 +10,8 @@ public class superConstructor extends superConstructorSuper {
     }
 
     
-
     public static void main(String[] args) {
         superConstructor sC = new superConstructor();
     }
+
 }
