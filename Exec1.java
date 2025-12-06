@@ -5,6 +5,7 @@ public class Exec1 {
     try {
       d = 0;
       a = 43 / d;
+      //asdfhjkl
 
     } catch (ArithmeticException e) {
       System.out.println("Cannot divide the number with 0");
